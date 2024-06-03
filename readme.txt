@@ -33,4 +33,4 @@ License:
 -----------------------
 This template is under Free License - https://www.themesine.com/license/
 
-Added extra line in readme.txt file
+Added new line in readme.txt for second time
