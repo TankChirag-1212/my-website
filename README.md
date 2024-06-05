@@ -4,6 +4,4 @@ added the New website of Car review
 
 adding one line
 
-Changes made on the example branch
-
-updated locally
+Updates made on master on Github before rebase
